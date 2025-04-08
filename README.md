@@ -20,5 +20,19 @@ Steps involved while creating the Project-
 7.𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧: Analysed visualizations to extract actionable insights. Compiled findings and recommendations into a report.
 
 
+Used charts & tools :
+" line chart " illustrate to the outlet establishment.
+" cluster bar chart " illustrate to the item type.
+" donut chart " illustrate to the fat by content, outlet size.
+" funnel chart " illustrate to the outlet location.
+
+
+Insights and Conclusions:
+
+The total number of sales transactions made is 1.20M Sales.
+The average customer rating out of 5 is around 4.
+The total number of items available for sale is about 9K.
+
+
 
 
