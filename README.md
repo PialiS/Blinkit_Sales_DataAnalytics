@@ -21,10 +21,10 @@ Steps involved while creating the Project-
 
 
 Used charts & tools :
-" line chart " illustrate to the outlet establishment.
-" cluster bar chart " illustrate to the item type.
-" donut chart " illustrate to the fat by content, outlet size.
-" funnel chart " illustrate to the outlet location.
+1)line chart " illustrate to the outlet establishment.
+2) cluster bar chart " illustrate to the item type.
+3)donut chart " illustrate to the fat by content, outlet size.
+4)funnel chart " illustrate to the outlet location.
 
 
 Insights and Conclusions:
